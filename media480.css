@@ -1,0 +1,138 @@
+@media (max-width: 480px) {
+  /* section-one */
+  .section-one {
+    height: 300px;
+  }
+  /* header */
+  .logo {
+    width: 102px;
+    height: 32px;
+    margin-bottom: 4px;
+  }
+  .toggle {
+    left: 18px;
+  }
+  .title_content {
+    padding-bottom: 10px;
+  }
+  .menu {
+    padding: 0px 0px 0px 12px;
+  }
+  .category button {
+    font-size: 8px;
+  }
+  .items-for-men a,
+  .items-for-women a {
+    font-size: 6px;
+    margin: 10px 0px;
+  }
+  .for-men {
+    margin-right: 14px;
+  }
+  .nav a {
+    font-size: 8px;
+  }
+  /* section-one */
+  .title_top h2 {
+    font-size: 14px;
+  }
+  .description {
+    font-size: 8px;
+    margin-top: 6px;
+  }
+  .title .btn {
+    font-size: 10px;
+    padding: 8px 10px;
+  }
+  .swiper-button-next {
+    right: 6px !important;
+    height: 8%;
+    top: 52% !important;
+  }
+  .swiper-button-prev {
+    left: 6px !important;
+    height: 8%;
+    top: 52% !important;
+  }
+  /* footer */
+  .footer {
+    height: 290px;
+    padding: 30px 14px 20px 14px;
+  }
+  .footer_content div h1 {
+    font-size: 12px;
+  }
+  .description_footer a {
+    font-size: 10px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .section-one {
+    height: 278px;
+  }
+}
+@media (max-width: 375px) {
+  .section-one {
+    height: 250px;
+  }
+}
+
+@media (max-width: 320px) {
+  .section-one {
+    height: 210px;
+  }
+  .title_top h2 {
+    font-size: 10px;
+  }
+  .description {
+    font-size: 6px;
+    margin-top: 6px;
+  }
+  .nav a:not(:last-child) {
+    margin-right: 30px;
+  }
+  .swiper-button-next {
+    top: 56% !important;
+  }
+  .title .btn {
+    font-size: 8px;
+    padding: 6px 8px;
+  }
+  .title_content {
+    width: 90%;
+  }
+  .footer {
+    height: 193px;
+    padding: 30px 14px 20px 14px;
+  }
+  .footer_content div h1 {
+    font-size: 8px;
+    margin-bottom: 18px;
+  }
+  .description_footer a {
+    font-size: 6px;
+    margin-bottom: 16px;
+  }
+  .items-for-women {
+    background-color: black;
+    width: 100%;
+  }
+  .menu {
+    padding: 0px 0px 0px 0px;
+    background-color: black;
+    width: 50%;
+    top: 0px;
+  }
+  .category {
+    justify-content: start;
+    padding: 12px 0px 0px 12px;
+  }
+
+  .items-for-women,
+  .items-for-men {
+    background-color: black;
+    width: 100%;
+    padding: 0px 0px 0px 12px;
+  }
+}
